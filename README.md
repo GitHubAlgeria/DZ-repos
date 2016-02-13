@@ -90,3 +90,15 @@ Linux tamazight keyboard layout (bouth Tifinagh and Latin)
 Link: [tamazight-layout](https://github.com/menoureddine/tamazight-layout)
 
 Author: [Noureddine LOUAHEDJ](https://github.com/menoureddine)
+
+
+Autodeploy Github/Bitbucket
+===
+
+A simple PHP script to auto-deploy from Github and Bitbucket, and executing a command like composer install
+
+Link: [autodeploy-github-bitbucket](https://github.com/kossa/autodeploy-github-bitbucket)
+
+Language: PHP
+
+Author: [Kouceyla Hadji](https://github.com/kossa)
