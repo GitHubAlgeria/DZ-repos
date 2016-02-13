@@ -70,3 +70,23 @@ Language: Python
 
 Author: [Abdelhak Bougouffa](https://github.com/abougouffa)
 
+Algerian Administrative Division
+===
+
+Administrative division of Algeria (Wilayas - Daïras - baladiyahs) XML/JSON file.  
+
+Link: [Algerian Administrative Division](https://github.com/mohsenuss91/AlgerianAdministrativeDivision)    
+
+Language: XML/JSON
+
+Author: [KHALDOUN Mohsen](https://github.com/mohsenuss91)
+
+
+Tamazight Layout
+===
+
+Linux tamazight keyboard layout (bouth Tifinagh and Latin)
+
+Link: [tamazight-layout](https://github.com/menoureddine/tamazight-layout)
+
+Author: [Noureddine LOUAHEDJ](https://github.com/menoureddine)
