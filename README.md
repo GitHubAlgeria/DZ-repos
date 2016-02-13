@@ -80,3 +80,13 @@ Link: [Algerian Administrative Division](https://github.com/mohsenuss91/Algerian
 Language: XML/JSON
 
 Author: [KHALDOUN Mohsen](https://github.com/mohsenuss91)
+
+
+Tamazight Layout
+===
+
+Linux tamazight keyboard layout (bouth Tifinagh and Latin)
+
+Link: [tamazight-layout](https://github.com/menoureddine/tamazight-layout)
+
+Author: [Noureddine LOUAHEDJ](https://github.com/menoureddine)
