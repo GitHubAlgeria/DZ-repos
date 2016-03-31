@@ -102,3 +102,13 @@ Link: [autodeploy-github-bitbucket](https://github.com/kossa/autodeploy-github-b
 Language: PHP
 
 Author: [Kouceyla Hadji](https://github.com/kossa)
+
+
+Algeria Cities
+===
+
+Une liste de toutes les communes de l'Algérie par wilaya sous différents formats (csv, xlsx, sql, php and json).
+
+Link: [algeria-cities](https://github.com/othmanus/algeria-cities)
+
+Author: [Ramtani Othmane](https://github.com/othmanus)
