@@ -126,3 +126,13 @@ Language: PHP
 Author: [Ayman Nedjmeddine](https://github.com/IOAyman)
 
 
+File Uploader
+===
+
+PHP script to upload files & images with simple code lines
+
+Language: PHP
+
+Link: [File-Uploader](https://github.com/MohamedAmine-C/File-Uploader)
+
+Author: [MohamedAmine](https://github.com/MohamedAmine-C)
