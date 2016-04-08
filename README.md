@@ -136,3 +136,14 @@ Language: PHP
 Link: [File-Uploader](https://github.com/MohamedAmine-C/File-Uploader)
 
 Author: [MohamedAmine](https://github.com/MohamedAmine-C)
+
+
+NavigationDrawerMenu in Android Studio
+===
+
+create a basic NavigationDrawerMenu in Android studio with fragments 
+
+Link: [NavigationDrawerMenu](https://github.com/Khaledsb/NavigationDrawerMenu)
+
+Author: [Khaled Sebti](https://github.com/Khaledsb)
+
