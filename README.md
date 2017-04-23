@@ -155,3 +155,10 @@ An Open Source project about Open Source contribution
 Link: [fosjump.github.io](https://github.com/fosjump/fosjump.github.io)
 
 Author: [SamyMe](https://github.com/SamyMe)
+
+==================
+Current Location
+A Simple Code to get User Location ( GPS / Internet ) for Android
+
+Link: [CurrentLocation](https://github.com/OusamaLaidi/CurrentLocation)
+Author: [LaidiOussama](https://github.com/OusamaLaidi)
